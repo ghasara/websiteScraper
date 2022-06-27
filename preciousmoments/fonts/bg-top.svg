@@ -1,0 +1,196 @@
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1921.801px" height="1089px" viewBox="0 0 1921.801 1089" enable-background="new 0 0 1921.801 1089" xml:space="preserve">
+	<style>
+    .star {
+     -webkit-animation: twinkle 2s linear infinite;
+          animation: twinkle 2s linear infinite;
+    }
+		
+		
+#star0 {
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+  
+}
+
+#star1 {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+		-webkit-animation: twinkle 3s linear infinite;
+          animation: twinkle 3s linear infinite;
+  
+}
+
+#star2 {
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  
+}
+
+#star3 {
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+		-webkit-animation: twinkle 1.3s linear infinite;
+          animation: twinkle 1.3s linear infinite;
+  
+}
+
+#star4 {
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+  
+}
+
+#star5 {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+		-webkit-animation: twinkle 4s linear infinite;
+          animation: twinkle 4s linear infinite;
+  
+}
+
+#star6 {
+		animation: twinkle 2s linear;
+		 -webkit-animation: twinkle 2s linear;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  
+}
+		
+#star7 {
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+		-webkit-animation: twinkle 4s linear infinite;
+          animation: twinkle 4s linear infinite;
+  
+}
+		
+#star8 {
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+		-webkit-animation: twinkle 3s linear infinite;
+          animation: twinkle 3s linear infinite;
+  
+}
+		
+#star9 {
+ animation: twinkle 2s linear;
+		 -webkit-animation: twinkle 2s linear;
+  
+}
+		
+#star10 {
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  
+}
+		
+#star11 {
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+		-webkit-animation: twinkle 1.5s linear infinite;
+          animation: twinkle 1.5s linear infinite;
+  
+}		
+		
+#star12 {
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+		-webkit-animation: twinkle 2.5s linear infinite;
+          animation: twinkle 2.5s linear infinite;
+  
+}
+
+#star13 {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  
+}
+		
+@-webkit-keyframes twinkle {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes twinkle {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+  </style>
+<g>
+	<path fill="#3C1A50" d="M-0.35,0h1922.34v1089H-0.35V0z"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-91.7227" y1="-47.1377" x2="1201.3859" y2="936.8813" gradientTransform="matrix(1 0 0 1 133.1797 407.2695)">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#530674;stop-opacity:0.74"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M-102.005,158v1092l2623.995-1.29L-102.005,158z"/>
+
+	<g opacity=".35">
+		<path class="star" id="star1" fill="#96628A" d="M429.525,755l7.489,7.843l9.789-4.689l-5.188,9.5l7.55,7.782l-10.72-1.948L433.329,783l-1.445-10.716
+			l-10.719-1.937l9.85-4.646L429.525,755z"/>
+	
+	
+		<path class="star" id="star2" fill="#E196D1" d="M260.135,895l2.129,6.48h6.901l-5.617,4.038l2.19,6.48l-5.604-4.026L254.593,912l2.114-6.48l-5.542-4.038
+			h6.901L260.135,895z"/>
+	
+	
+		<path class="star" id="star3" fill="#E196D1" d="M591.069,820l-1.864,11.049l9.96,5.21l-11.123,1.632L586.238,849l-4.95-10.12l-11.123,1.706l8.037-7.845
+			l-5.07-10.063l9.96,5.21L591.069,820z"/>
+	
+	
+		<path class="star" id="star4" fill="#96628A" d="M823.382,757.828l-3.878,10.408l8.661,6.883l-11.09-0.527L813.197,785l-2.957-10.694l-11.075-0.48
+			l9.25-6.115L805.471,757l8.66,6.944L823.382,757.828z"/>
+	
+	
+		<path class="star" id="star5" fill="#E196D1" d="M1028.407,803l7.538,7.784l9.751-4.75l-5.133,9.559l7.597,7.727l-10.71-1.876l-5.075,9.558l-1.49-10.716
+			l-10.725-1.833l9.796-4.75L1028.407,803z"/>
+	
+	
+		<path class="star" id="star6" fill="#96628A" d="M1414.16,762l4.959,15.314l16.041-0.062l-13.01,9.479l4.96,15.269l-12.95-9.476L1401.21,802l4.96-15.27
+			l-13.01-9.478l16.041,0.062L1414.16,762z"/>
+	
+	
+		<path class="star" id="star7" fill="#E196D1" d="M1644.837,728l-0.882,11.075l10.205,4.255l-10.728,2.595L1642.61,757l-5.722-9.49l-10.729,2.597
+			l7.172-8.437l-5.782-9.43l10.16,4.255L1644.837,728z"/>
+	
+	
+		<path class="star" id="star8" fill="#96628A" d="M1532.094,895l7.652,8.226l10.305-4.69l-5.527,9.741l7.638,8.182l-11.058-2.198l-5.528,9.741
+			l-1.296-11.077l-11.118-2.213l10.29-4.633L1532.094,895z"/>
+	
+	
+		<path class="star" id="star9" fill="#96628A" d="M423.881,943l-2.09,17.988l16.374,7.46l-17.597,3.58L418.523,990l-8.808-15.792l-17.552,3.64l12.134-13.34
+			l-8.806-15.748l16.269,7.58L423.881,943z"/>
+	
+	
+		<path class="star" id="star10" fill="#96628A" d="M740.665,921l3.396,10.36l11.104-0.043l-8.985,6.381L749.635,948l-8.97-6.382L731.74,948l3.395-10.302
+			l-8.97-6.381l11.09,0.044L740.665,921z"/>
+	
+	
+		<path class="star" id="star11" fill="#96628A" d="M1210.84,965.152l-5.244,9.5l7.564,7.798l-10.742-1.95l-5.127,9.5l-1.447-10.702l-10.684-1.95l9.813-4.632
+			L1193.538,962l7.491,7.843L1210.84,965.152z"/>
+	
+	
+		<path class="star" id="star12" fill="#96628A" d="M979.639,945l3.451,10.723h11.069l-8.988,6.569L988.625,973l-8.988-6.614L970.694,973l3.469-10.708
+			l-9.003-6.569h11.068L979.639,945z"/>
+	
+	
+		<path class="star" id="star13" fill="#96628A" d="M1662.69,920l3.418,10.36h11.052l-9.004,6.338l3.478,10.302l-8.942-6.396l-9.004,6.396l3.478-10.302
+			l-9.004-6.337h11.127L1662.69,920z"/>
+	</g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1922px" height="1091px" viewBox="0 0 1922 1091" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <defs>
+        <linearGradient x1="115.612854%" y1="76.1237112%" x2="24.5844838%" y2="34.8994935%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0.153654939" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-5.93443882%" y1="28.8798843%" x2="72.4725512%" y2="60.5472187%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.153654939" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2" transform="translate(1.000000, 1.000000)">
+            <g id="Group-6" transform="translate(-0.078291, -0.411279)">
+                <polygon id="Rectangle" fill="url(#linearGradient-1)" points="0.0782907685 0.411278692 1920.07829 0.411278692 1920.07829 1089.41128 0.0782907685 1089.41128"></polygon>
+                <polygon id="Path-2" fill="url(#linearGradient-2)" opacity="0.24202474" points="0.0782907685 0.411278692 0.0782907685 1089.41128 1920.07829 1089.41128 1920.07829 1016.40318"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
